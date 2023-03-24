@@ -8,6 +8,8 @@ I then used an existing postgreSQL database and manually created the tables. The
 ## ER Diagram
 A fictional Star Schema ER diagram I've created of an DVD Rentals database. 
 
+The Fact table uses keys that references each dimension table
+
 ### What is a data model?
 A data model organizes elements of data and standardizes how they
 relate to one another and properties of real-world entities.
